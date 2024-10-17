@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1>Hi, I'm Lee, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-<!--
-**lscott98/lscott98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/lscott98/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/lscott98/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/lscott98/ticket-lifecycle)
+- <b>Active Directory</b>
+  - [Configuring Setting Active Directory Infrastructure within Azure ](https://github.com/lscott98/configure-ad)
+  - [Deploying Active Directory in Azure ](https://github.com/lscott98/deploying-ad)
+  - [Setting Users, Group Policy and Managing Accounts in Azure ](https://github.com/lscott98/users-grouppol-magaccounts)

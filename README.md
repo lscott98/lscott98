@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lee, an <a href="https://linkedin.com/in/Josh">Aspiring Tech Professional</a>☺</h1>
+<h1>Hi, I'm Lee, <a href="https://linkedin.com/in/Josh">Aspiring Tech Professional</a>☺</h1>
 
 <h2>👨‍💻 Tech Projects:</h2>
 

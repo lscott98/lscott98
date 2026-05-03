@@ -10,3 +10,5 @@
   - [Configuring Setting Active Directory Infrastructure within Azure ](https://github.com/lscott98/configure-ad)
   - [Deploying Active Directory in Azure ](https://github.com/lscott98/deploying-ad)
   - [Setting Users, Group Policy and Managing Accounts in Azure ](https://github.com/lscott98/users-grouppol-magaccounts)
+- <b>VPN</b>
+[ Setting Up Connection with ProtonVPN ](https://github.com/lscott98/configure-ad)
